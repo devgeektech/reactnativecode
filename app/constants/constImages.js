@@ -1,0 +1,1 @@
+export const A10=require("../asset/a10.jpg")
